@@ -1,12 +1,11 @@
 # 🤖 AI Quest: Now You Can!
 
-**Version:** 1.0 | **[📋 Changelog](CHANGELOG.md)**
-**[Русская версия](READMERU.md)** | **English**
+[![Version](https://img.shields.io/badge/version-1.0-blue)](CHANGELOG.md)
+[![Status](https://img.shields.io/badge/status-in%20development-yellow)](https://github.com/alexeykrol/aibook)
+[![Language](https://img.shields.io/badge/language-english-blue)](README.md)
+[![Русская версия](https://img.shields.io/badge/lang-русская%20версия-red)](READMERU.md)
 
 > **A quest-book about mastering artificial intelligence and gaining abilities that previously seemed unattainable**
-
-[![Status](https://img.shields.io/badge/status-in%20development-yellow)](https://github.com/alexeykrol/aibook)
-[![Language](https://img.shields.io/badge/language-russian-blue)](https://github.com/alexeykrol/aibook)
 
 ---
 

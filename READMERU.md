@@ -1,12 +1,11 @@
 # 🤖 ИИ Квест: Теперь ты можешь!
 
-**Версия:** 1.0 | **[📋 История Изменений](CHANGELOG_RU.md)**
-**Русская** | **[English version](README.md)**
+[![Версия](https://img.shields.io/badge/версия-1.0-blue)](CHANGELOG_RU.md)
+[![Статус](https://img.shields.io/badge/статус-в%20разработке-yellow)](https://github.com/alexeykrol/aibook)
+[![Язык](https://img.shields.io/badge/язык-русский-blue)](READMERU.md)
+[![English version](https://img.shields.io/badge/lang-english%20version-red)](README.md)
 
 > **Книга-квест о том, как овладеть искусственным интеллектом и получить возможности, которые раньше казались недостижимыми**
-
-[![Status](https://img.shields.io/badge/status-в%20разработке-yellow)](https://github.com/alexeykrol/aibook)
-[![Language](https://img.shields.io/badge/язык-русский-blue)](https://github.com/alexeykrol/aibook)
 
 ---
 

@@ -55,3 +55,7 @@ ENV/
 # Logs
 *.log
 logs/
+
+# Internal/Temporary scripts
+create_placeholders.sh
+translate_helper.py

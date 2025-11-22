@@ -1,6 +1,6 @@
 # 🤖 AI Quest: Now You Can!
 
-**Version:** 1.0
+**Version:** 1.0 | **[📋 Changelog](CHANGELOG.md)**
 **[Русская версия](READMERU.md)** | **English**
 
 > **A quest-book about mastering artificial intelligence and gaining abilities that previously seemed unattainable**

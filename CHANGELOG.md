@@ -9,6 +9,59 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.6.0] - 2025-11-25
+
+### Phase 1: Framework Structure - Complete
+
+Major restructuring to adapt claude-code-starter framework for literary project.
+
+### Added
+
+#### **New Project Structure**
+- `content/` - Book content organized by levels (0-10)
+- `drafts/` - Working versions (master/, episodes/)
+- `meta/` - Cold Start Protocol files
+- `templates/` - LitRPG templates (level, exercise, case)
+- `.claude/commands/` - Slash commands for literary workflow
+
+#### **Cold Start Protocol (85% Token Savings)**
+- `meta/PROJECT_SNAPSHOT.md` - Quick project overview (~500 tokens)
+- `meta/BACKLOG.md` - Tasks organized by 7 phases
+- `meta/PROCESS.md` - How to update meta-files
+- `meta/BOOK_STRUCTURE.md` - LitRPG structure with 10 levels
+
+#### **LitRPG Templates**
+- `templates/level_template.md` - Level structure with bosses, quests, rewards
+- `templates/exercise_template.md` - Quest/exercise template
+- `templates/case_template.md` - Case study template
+
+#### **Slash Commands**
+- `/sync` - Quick context recovery after pause
+- `/sprint-done` - End of session routine
+- `/commit` - Git commits for literary projects
+- `/explain` - Explain AI concepts for the book
+
+### Changed
+
+#### **CLAUDE.md Adapted for Literary Project**
+- Clear role separation: Author (20% creative) vs AI (80% routine)
+- AI does NOT write or edit author's artistic text
+- Focus on research, fact-checking, structure management
+
+#### **README.md Updated**
+- Framework methodology explained
+- Cold Start Protocol documented
+- Phase-based development roadmap
+
+### Removed
+- Unnecessary scripts (create_placeholders.sh, init-project.sh, translate_helper.py)
+- Init/ folder
+
+### Moved
+- All original Russian/English content to `archive/v1/`
+
+---
+
 ## [1.0.0] - 2025-01-22
 
 ### 🎉 Initial Release

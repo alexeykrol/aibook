@@ -56,9 +56,5 @@ ENV/
 *.log
 logs/
 
-# Internal/Temporary scripts
-create_placeholders.sh
-translate_helper.py
-
 # Promo and marketing materials (work in progress)
 Промо и фрагменты/

@@ -32,7 +32,7 @@
 - [x] Создать PROCESS.md
 - [x] Создать BOOK_STRUCTURE.md
 - [x] Создать шаблоны (level, exercise, case)
-- [x] Создать slash-команды (/sync, /sprint-done, /commit, /explain)
+- [x] Создать slash-команды (/sync, /sprint-done, /commit, /explain, /sync-git)
 - [x] Обновить CLAUDE.md под новую структуру
 - [x] Обновить README.md с оглавлением и структурой репозитория
 - [x] Создать CONTRIBUTING.md
@@ -176,4 +176,4 @@
 
 ---
 
-*Обновлено: 2025-11-25*
+*Обновлено: 2025-12-09*

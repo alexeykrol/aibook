@@ -27,7 +27,7 @@
 - ✅ Ненужные скрипты и archive/v1/ удалены
 - ✅ Мета-файлы созданы (PROJECT_SNAPSHOT, BACKLOG, PROCESS, BOOK_STRUCTURE)
 - ✅ Шаблоны для ЛитРПГ (level, exercise, case)
-- ✅ Slash-команды (/sync, /sprint-done, /commit, /explain)
+- ✅ Slash-команды (/sync, /sprint-done, /commit, /explain, /sync-git)
 - ✅ CLAUDE.md адаптирован для литературного проекта
 - ✅ README.md с оглавлением и CONTRIBUTING.md
 
@@ -82,4 +82,4 @@ aibook/
 
 ---
 
-*Обновлено: 2025-11-25 — Phase 1 завершена*
+*Обновлено: 2025-12-09 — добавлена команда /sync-git*

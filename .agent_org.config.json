@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "project_name": "agent-org-test",
+  "project_description": "TBD",
+  "installed_at": "2026-03-19T03:35:46Z",
+  "mode": "overlay",
+  "settings": {
+    "auto_discovery": true,
+    "escalation_threshold": "high",
+    "pipeline_stages": ["intake", "product", "engineering", "execution", "review", "closeout"]
+  }
+}

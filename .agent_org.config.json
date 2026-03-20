@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "project_name": "sdk-v2-test",
+  "project_description": "TBD",
+  "installed_at": "2026-03-20T22:13:53Z",
+  "mode": "overlay",
+  "settings": {
+    "auto_discovery": true,
+    "escalation_threshold": "high",
+    "pipeline_stages": ["intake", "product", "engineering", "execution", "review", "closeout"]
+  }
+}

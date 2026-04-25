@@ -58,3 +58,5 @@ logs/
 
 # Promo and marketing materials (work in progress)
 Промо и фрагменты/
+.handoffs/local/
+.handoffs/*.local.md

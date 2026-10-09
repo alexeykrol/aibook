@@ -60,3 +60,6 @@ logs/
 Промо и фрагменты/
 .handoffs/local/
 .handoffs/*.local.md
+
+# Local git worktrees (branches are pushed to origin separately)
+.claude/worktrees/

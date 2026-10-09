@@ -1,0 +1,3 @@
+project_type=course
+project_priority=
+market_analysis=true

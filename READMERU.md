@@ -1,5 +1,9 @@
 # 🤖 ИИ Квест: Теперь ты можешь!
 
+> ⚠️ **УСТАРЕВШИЙ ФАЙЛ**
+> Этот README больше не поддерживается как источник актуальной структуры проекта.
+> Актуальная структура книги и доп. документов: `meta/BOOK_STRUCTURE_ORDERED.md`.
+
 [![Версия](https://img.shields.io/badge/версия-1.0-blue)](CHANGELOG_RU.md)
 [![Статус](https://img.shields.io/badge/статус-в%20разработке-yellow)](https://github.com/alexeykrol/aibook)
 [![Язык](https://img.shields.io/badge/язык-русский-blue)](READMERU.md)

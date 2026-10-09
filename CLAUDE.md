@@ -1,3 +1,11 @@
+# Project Manifest
+
+See `./manifest.md` for project metadata.
+
+This file defines:
+- `project_type`
+- `project_priority`
+
 # Контекст проекта для Claude Code
 
 > Этот файл автоматически загружается в контекст каждой сессии Claude Code
@@ -257,3 +265,26 @@ git commit -m "content: добавлен уровень 1 — Врата Джи�
 
 *Этот файл адаптирован для литературного проекта в формате ЛитРПГ*
 *Используй `/sync` для начала работы после паузы*
+
+
+### Делегирование задач субагентам
+
+При получении задачи от пользователя — сначала оценить:
+- **Сам:** быстрые правки (< 2 мин), обсуждения, анализ, вопросы, мелкие фиксы
+- **Субагент:** код > 50 строк, новые модули, рефакторинг, UI-изменения, исследования, любые задачи > 5 мин
+
+При делегировании субагенту:
+- Составить детальное ТЗ с контекстом, файлами для чтения, ожидаемым результатом
+- Запустить в фоне
+- Сообщить пользователю что запущено
+- По завершении — дать краткий отчёт о результате
+- Можно запускать несколько субагентов параллельно на независимые задачи
+
+Цель: максимальная параллельность и минимальное время ожидания пользователя.
+
+<!-- BEGIN: PIPELINE_MODEL_SELECTION_HANDOFF -->
+## Pipeline Model Selection Handoff
+
+When work concerns a model-backed pipeline/API route, read [Claude Code Pipeline Model-Selection Handoff](/Users/alexeykrolmini/Code/CLAUDE_CODE_PIPELINE_MODEL_SELECTION_HANDOFF.md) and its required [GPT-5.6 Model Selection Guide](/Users/alexeykrolmini/Code/GPT-5.6-model-selection-guide-ru.md).
+Start with a read-only, microtask-level audit; verify exact provider models, reasoning controls, and pricing from current official documentation; return an evaluation/rollback recommendation before changing any runtime route.
+<!-- END: PIPELINE_MODEL_SELECTION_HANDOFF -->

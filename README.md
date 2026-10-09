@@ -1,5 +1,9 @@
 # AI Quest: Now You Can!
 
+> ⚠️ **УСТАРЕВШИЙ ФАЙЛ / OUTDATED FILE**
+> Этот README больше не поддерживается как источник актуальной структуры проекта.
+> Актуальная структура книги и доп. документов: `meta/BOOK_STRUCTURE_ORDERED.md`.
+
 [![Version](https://img.shields.io/badge/version-0.6.0-blue)](CHANGELOG.md)
 [![Status](https://img.shields.io/badge/status-Phase%201%20Structure-yellow)](meta/PROJECT_SNAPSHOT.md)
 [![Progress](https://img.shields.io/badge/progress-100%25-green)](meta/BACKLOG.md)
